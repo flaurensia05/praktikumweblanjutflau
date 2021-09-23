@@ -1,0 +1,14 @@
+CRITICAL - 2021-09-22 22:15:03 --> Object of class App\Controllers\Coba could not be converted to string
+#0 C:\xampp\htdocs\praktikum\app\Controllers\Coba.php(14): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\praktikum\vendor\codeigniter4\framework\system\CodeIgniter.php(935): App\Controllers\Coba->about()
+#2 C:\xampp\htdocs\praktikum\vendor\codeigniter4\framework\system\CodeIgniter.php(431): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Coba))
+#3 C:\xampp\htdocs\praktikum\vendor\codeigniter4\framework\system\CodeIgniter.php(332): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\praktikum\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-22 22:15:18 --> Object of class App\Controllers\Coba could not be converted to string
+#0 C:\xampp\htdocs\praktikum\app\Controllers\Coba.php(14): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\praktikum\vendor\codeigniter4\framework\system\CodeIgniter.php(935): App\Controllers\Coba->about()
+#2 C:\xampp\htdocs\praktikum\vendor\codeigniter4\framework\system\CodeIgniter.php(431): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Coba))
+#3 C:\xampp\htdocs\praktikum\vendor\codeigniter4\framework\system\CodeIgniter.php(332): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\praktikum\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
